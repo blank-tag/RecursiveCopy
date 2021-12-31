@@ -3,7 +3,6 @@
 #include <sys/stat.h>
 #include <dirent.h>
 #include <string.h>
-#include <libgen.h>
  
 void copy_file(char *dest_dir, char *src_dir, char * filename )
 {
